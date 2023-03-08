@@ -23,5 +23,10 @@ namespace Revisao
             Console.WriteLine($"{Nome} - {Tamanho}");
             Console.WriteLine($"Eng {Engenheiro}");
         }
+
+        public virtual void Info()
+        {
+            Console.WriteLine("Info");
+        }
     }
 }

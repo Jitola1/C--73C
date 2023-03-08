@@ -10,5 +10,9 @@ namespace Revisao
     {
         public bool FoiContruida { get; set; }
         public override string Nome { get; set; } 
+        public override void Info()
+        {
+
+        }
     }
 }
