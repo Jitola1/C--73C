@@ -1,0 +1,8 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Revisao0803\Revisao0803\bin\Debug\Revisao0803.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Revisao0803\Revisao0803\bin\Debug\Revisao0803.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Revisao0803\Revisao0803\bin\Debug\Revisao0803.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Revisao0803\Revisao0803\obj\Debug\Revisao0803.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Revisao0803\Revisao0803\obj\Debug\Revisao0803.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Revisao0803\Revisao0803\obj\Debug\Revisao0803.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Revisao0803\Revisao0803\obj\Debug\Revisao0803.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Revisao0803\Revisao0803\obj\Debug\Revisao0803.pdb
