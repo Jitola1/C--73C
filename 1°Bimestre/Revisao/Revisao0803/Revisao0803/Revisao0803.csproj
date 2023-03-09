@@ -43,9 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Caminhao.cs" />
+    <Compile Include="Carro.cs" />
+    <Compile Include="Crianca.cs" />
+    <Compile Include="IVeiculo.cs" />
+    <Compile Include="Moto.cs" />
     <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Veiculo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
