@@ -1,0 +1,8 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Crediaria\Crediaria\bin\Debug\Crediaria.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Crediaria\Crediaria\bin\Debug\Crediaria.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Crediaria\Crediaria\bin\Debug\Crediaria.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Crediaria\Crediaria\obj\Debug\Crediaria.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Crediaria\Crediaria\obj\Debug\Crediaria.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Crediaria\Crediaria\obj\Debug\Crediaria.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Crediaria\Crediaria\obj\Debug\Crediaria.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C-\1°Bimestre\Revisao\Crediaria\Crediaria\obj\Debug\Crediaria.pdb
