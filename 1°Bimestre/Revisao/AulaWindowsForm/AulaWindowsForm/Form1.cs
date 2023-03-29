@@ -5,6 +5,7 @@ namespace AulaWindowsForm
     {
 
         private string Nome;
+        public int a=0;
         private string Email;
         public Form1()
         {
@@ -33,15 +34,25 @@ namespace AulaWindowsForm
             //ltvUsuarios.Items.Add(new ListViewItem(lista));
             map.TryGetValue("Nome", out string nome).ToString();
             map.TryGetValue("Email", out string email).ToString();
-            string[] lista = new string[2] {nome, email };
-            ListViewItem listViewItem = new ListViewItem(lista);
-            ltvUsuarios.Items.Add(listViewItem);
+            a++;
+                string[] lista = new string[2] { nome, email };
+                ListViewItem listViewItem = new ListViewItem(lista);
+                ltvUsuarios.Items.Add(listViewItem);
+            
 
             LimparCampos();
         }
 
 
         //public string MontarTexto(List<Dictionary<string, string>> lista)
+
+        public Dictionary<string, string> maps(string Nome,string Email)
+        {
+            Dictionary<string, string> map = new Dictionary<string, string>();
+            map.TryAdd("Nome", txtName.Text);
+            map.TryAdd("Email", Email);
+            return map;
+        }
 
         public void LimparCampos()
         {
