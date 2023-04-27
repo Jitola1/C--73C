@@ -12,7 +12,7 @@ public class Class1
             string[] lista = formataList(map);
             addListView(lista);
         }
-        private void GerarColunasLista()
+        /*private void GerarColunasLista()
         {
             ltvUsuarios.Columns.Add("Nome", 200).TextAlign = HorizontalAlignment.Center;
             ltvUsuarios.Columns.Add("Data de Nascimento", 10).TextAlign = HorizontalAlignment.Center;
@@ -24,7 +24,7 @@ public class Class1
             ltvUsuarios.Columns.Add("Endereco", 150).TextAlign = HorizontalAlignment.Center;
             ltvUsuarios.Columns.Add("Telefone", 150).TextAlign = HorizontalAlignment.Center;
             ltvUsuarios.View = View.Details;
-        }
+        }*/
 
         public string[8] formataList(Dictionary<string, string> map)
         {
@@ -59,6 +59,6 @@ public class Class1
         public void addListView(string[9] list)
         {
             
-        }
+        }_
     }
 }
