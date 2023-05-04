@@ -22,10 +22,7 @@ namespace AulaWindowsForm
 
         private void btnEnviar_Click(object sender, EventArgs e)
         {
-           
-            
-                GuardaValor();
-            
+            GuardaValor();
             LimpaCampos();
 
         }
